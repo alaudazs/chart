@@ -14,3 +14,4 @@ maintainers:
 - name: bitnami-bot
   email: containers@bitnami.com
 engine: gotpl
+status: PUBLISHED
