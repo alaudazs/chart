@@ -1,4 +1,0 @@
-dependencies:
-- name: zookeeper
-  version: 0.4.2
-  repository: http://liaoj-helm-repository.e2equota.haproxy-139-219-56-162-alaudaorg.myalauda.cn/
